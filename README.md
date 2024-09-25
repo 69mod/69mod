@@ -2,7 +2,10 @@
 
 I'm an intermediate web developer and FiveM enthusiast working away in my garage. 🛠️😜
 ## MY SETUP
+
 This is my setup 
+
+
 ![SETUP](https://pbs.twimg.com/media/DXi2wktX0AA-ArR.jpg)
 
 ## Skills
