@@ -7,7 +7,7 @@ I'm an intermediate web developer and FiveM enthusiast working away in my garage
 - **FiveM Development**: Custom scripts and resources
 
 ## Tech Stack
-- ![Lua](https://cdn.icon-icons.com/icons2/2248/PNG/512/language_lua_icon_138433.png) ![JS](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png) ![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg) 
+- ![Lua](https://cdn.icon-icons.com/icons2/2248/PNG/512/language_lua_icon_138433.png) ![JS]([https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png](https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png)) ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png) ![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg) 
 
 Feel free to explore my repositories and collaborate! Let's code something amazing together! 🎉
 
