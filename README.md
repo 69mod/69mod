@@ -10,8 +10,5 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" width="50"/> </a> 
 </p>
 
-# 📊 GitHub Stats:
-<a href="https://wakatime.com/@018e72ce-8e65-4454-b766-770821c7e39d"><img src="https://wakatime.com/badge/user/018e72ce-8e65-4454-b766-770821c7e39d.svg" alt="Total time coded since Mar 25 2024" /></a>
-
 ![]()<br/>
 ![]()
