@@ -1,6 +1,6 @@
 # 👑 Welcome to 69's GitHub! 👑
 
-![Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzE0ZGRlZjUyMTI3NDI3MTI5YjYxNzIwY2QyOWRjMzM3NDkxZWQ2ZCZjdD1n/3o7TKtdn976rzVgkyA/giphy.gif)
+![Banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDM0NmJjZ3pwcmdkMTRxMWVrcXMybHBvdDdjMm5raGRnNW14dnU3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif)
 
 ---
 
@@ -27,7 +27,7 @@ Hey, I'm **69**, a developer specializing in **FiveM** and passionate about codi
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="300" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZ1dHlpMW1wZ3JmNWUwY24wcHoxNmU1b2R5bXd3d29oZ2p5aGJvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" />
 </div>
 
 ---
