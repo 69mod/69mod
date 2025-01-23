@@ -20,8 +20,10 @@ Hey, I'm **69**, a developer specializing in **FiveM** and passionate about codi
 
 ---
 
+### 📊 WakaTime Stats
+
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZ1dHlpMW1wZ3JmNWUwY24wcHoxNmU1b2R5bXd3d29oZ2p5aGJvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=69&layout=compact&theme=radical" alt="WakaTime Stats" />
 </div>
 
 ---
