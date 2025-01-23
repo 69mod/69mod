@@ -39,29 +39,6 @@ Hey, I'm **69**, a developer specializing in **FiveM** and passionate about codi
 
 ---
 
-### 🌟 Cool Animations
-
-```html
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;FiveM+Dev+%7C+HTML+%7C+CSS+%7C+Lua;Let's+build+amazing+projects!" alt="Typing SVG" />
-</div>
-```
-
-<div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
-</div>
-
----
-
-### 📂 Projects
-
-Check out my projects here 👇
-
-- 🔥 [ProjectName1](https://github.com/69/projectname1) 
-- ⚡ [ProjectName2](https://github.com/69/projectname2) 
-
----
-
 ### 🎉 Thanks for visiting my profile!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=69&style=flat-square&color=brightgreen)
