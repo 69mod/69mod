@@ -9,22 +9,16 @@
 Hey, I'm **69**, a developer specializing in **FiveM** and passionate about coding.
 
 - 🌐 **Key Skills**:
-  - 🔥 **HTML** / **CSS**
-  - 🌀 **Lua**
-  - ⚡ **JavaScript**
+  - ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+  - ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  - ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 - 📍 **What I Do**:
   - Building and customizing **FiveM** servers.
   - Creating stylish front-end designs.
 
 ---
-
-### 🛠️ Tools & Technologies
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZ1dHlpMW1wZ3JmNWUwY24wcHoxNmU1b2R5bXd3d29oZ2p5aGJvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" />
