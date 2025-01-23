@@ -23,7 +23,7 @@ Hey, I'm **69**, a developer specializing in **FiveM** and passionate about codi
 ### 📊 WakaTime Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?69mod=69&layout=compact&theme=radical" alt="WakaTime Stats" />
+  <img src="(https://github-readme-stats.vercel.app/api/wakatime?username=69mod&layout=compact&theme=radical)" alt="WakaTime Stats" />
 </div>
 
 ---
