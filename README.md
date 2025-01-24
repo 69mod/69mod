@@ -1,6 +1,6 @@
 # 👑 Welcome to 69's GitHub! 👑
 
-![Banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDM0NmJjZ3pwcmdkMTRxMWVrcXMybHBvdDdjMm5raGRnNW14dnU3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif)
+![Banner](https://media.tenor.com/QoM3wcuzYlwAAAAM/your-welcome-your-welcome-gta.gif)
 
 ---
 
